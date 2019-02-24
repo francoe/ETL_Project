@@ -1,12 +1,11 @@
 # ETL Project - _Eric Franco_
-##_Combining US Natural Gas Storage and Temperature Data_
+## _Combining US Natural Gas Storage and Temperature Data_
 
-This project 
-This project will created a database of:
+This project pulls and creates a database storing two key pieces of data required to understand the US natural gas market:
 
-1. Historical population-weighted US temperature data from National Oceanic and Atmospheric Administration’s (NOAA) Climate Prediction Center (CPC)
+1. **Temperature Data**: Historical population-weighted US temperature data from National Oceanic and Atmospheric Administration’s (NOAA) Climate Prediction Center (CPC)
 
-2. Historical natural gas storage data reported by the Energy Information administration. This data reports both the total amount of working gas in US storage facilities at the end of each week, as well as the week over week change in inventory. 
+2. **Storage Data** Historical natural gas storage data reported by the Energy Information administration. This data reports both the total amount of working gas in US storage facilities at the end of each week, as well as the week over week change in inventory. 
 
 
 
